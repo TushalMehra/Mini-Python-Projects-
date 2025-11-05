@@ -35,3 +35,22 @@ In this game, you compete against the computer in multiple rounds of Snake 🐍,
 * Random number generation (random.choice())
 
 * Functions and basic Python logic
+
+
+## How to Run
+
+1. Clone this repository:
+   ```bash
+   
+   git clone https://github.com/TushalMehra/snake-water-gun-python.git
+
+
+2. Navigate into the project folder:
+
+   cd snake-water-gun-python
+
+
+3. Run the game:
+
+   python snake_water_gun.py
+
