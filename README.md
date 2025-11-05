@@ -15,7 +15,7 @@ In this game, you compete against the computer in multiple rounds of Snake 🐍,
 ~ Same choices → It’s a draw! 
 
 
-**Features**
+## **Features**
 
 * Interactive command-line interface
 
@@ -26,7 +26,7 @@ In this game, you compete against the computer in multiple rounds of Snake 🐍,
 * Simple, beginner-friendly code — perfect for learning if-else logic, loops, and randomization in Python
 
 
-**Concepts Used**
+## **Concepts Used**
 
 * Conditional statements (if-elif-else)
 
