@@ -3,6 +3,8 @@
 A simple and fun Python-based mini-game inspired by the classic “Rock Paper Scissors” concept — but with a twist! 🎮
 In this game, you compete against the computer in multiple rounds of Snake 🐍, Water 💧, and Gun 🔫. The winner is determined based on predefined rules:
 
+<img width="956" height="592" alt="image" src="https://github.com/user-attachments/assets/530462ee-3033-492b-b8af-1995227a9243" />
+
 
 ~ drinks Water → 🐍 Snake wins
 
