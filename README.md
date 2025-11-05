@@ -3,7 +3,7 @@
 A simple and fun Python-based mini-game inspired by the classic “Rock Paper Scissors” concept — but with a twist! 🎮
 In this game, you compete against the computer in multiple rounds of Snake 🐍, Water 💧, and Gun 🔫. The winner is determined based on predefined rules:
 
-<img width="768" height="512" alt="ChatGPT Image Nov 6, 2025, 02_46_49 AM" src="https://github.com/user-attachments/assets/0dc5deab-02f7-423e-8f00-8093e610a935" />
+<img width="576" height="384" alt="ChatGPT Image Nov 6, 2025, 02_46_49 AM" src="https://github.com/user-attachments/assets/0dc5deab-02f7-423e-8f00-8093e610a935" />
 
 
 ---
